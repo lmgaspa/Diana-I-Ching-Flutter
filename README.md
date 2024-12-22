@@ -1,17 +1,36 @@
-# dianaiching
+# Diana I Ching
 
-A new Flutter project.
+Diana I Ching is an interactive application inspired by the I Ching, designed to randomly draw one of the 64 hexagrams, display its title, image, and description. This app is built using Flutter and supports web, Android, and iOS platforms.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Hexagram Drawing**: Randomly draw one of 64 hexagrams with detailed descriptions.
+- **Interactive UI**: Modern and simple interface with black background and white text for better readability.
+- **Multiplatform Support**: Can be built for Web, Android, and iOS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Diana-I-Ching-Flutter
+## Screens
+
+1. **Home Screen**:
+   - Button: "Play I Ching" starts the hexagram drawing.
+2. **Hexagram Screen**:
+   - Displays the hexagram number, title, description, and an associated image.
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Flutter SDK (latest stable version): [Install Flutter](https://flutter.dev/docs/get-started/install)
+- A code editor like VSCode or Android Studio.
+
+### Steps
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/diana-i-ching.git
+   cd diana-i-ching
