@@ -27,10 +27,3 @@ Diana I Ching is an interactive application inspired by the I Ching, designed to
 
 - Flutter SDK (latest stable version): [Install Flutter](https://flutter.dev/docs/get-started/install)
 - A code editor like VSCode or Android Studio.
-
-### Steps
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/diana-i-ching.git
-   cd diana-i-ching
